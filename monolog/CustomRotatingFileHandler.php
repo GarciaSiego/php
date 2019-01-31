@@ -4,11 +4,6 @@
  * User: Garcia
  */
 
-namespace General;
-
-
-use DateTime;
-use InvalidArgumentException;
 use Monolog\Handler\StreamHandler;
 use Monolog\Logger;
 
